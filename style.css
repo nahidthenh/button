@@ -28,7 +28,7 @@ a {
 	letter-spacing: 4px;
 	overflow: hidden;
 	margin-right: 50px;
-	border-radius: 50%;
+	
 }
 
 a:hover {
@@ -39,6 +39,7 @@ a:hover {
         0 0 50px #03e9f4,
         0 0 200px #03e9f4;
     -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+    border-radius: 50%;
 }
 
 a:nth-child(1) {
