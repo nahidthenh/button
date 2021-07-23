@@ -28,7 +28,7 @@ a {
 	letter-spacing: 4px;
 	overflow: hidden;
 	margin-right: 50px;
-	
+	width: 100%;
 }
 
 /* a:hover {
